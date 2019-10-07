@@ -12,6 +12,7 @@ public class BatalhaNaval {
     private static int vidasRestantes = MAXVIDAS;   // Vidas restantes
     private static int totalPartes = 0;             // Partes de embarcações
     private static int totalPartesAcertadas = 0;    // Quantas partes afundadas
+    private static int totalPontos = 0;             // Total de pontos do jogador
     private static final char[][] tabuleiroEscondido = new char[MAXTAB][MAXTAB];
     private static final char[][] tabuleiroJogador = new char[MAXTAB][MAXTAB];
     private static Scanner teclado = new Scanner(System.in);
