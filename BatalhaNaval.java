@@ -46,7 +46,7 @@ public class BatalhaNaval {
         tempTab[4] = "~~~~~~~~";
         tempTab[5] = "~~~4444~";
         tempTab[6] = "~~~~~~~~";
-        tempTab[7] = "~~~~~~~~";
+        tempTab[7] = "~~~~~22~";
 
         // Guarda o tabuleiro na matriz, a partir das Strings
         for (int linha = 0; linha < MAXTAB; linha++) {
