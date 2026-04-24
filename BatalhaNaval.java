@@ -41,7 +41,7 @@ public class BatalhaNaval {
         //           |01234567| Monte o tabuleiro escondido!
         tempTab[0] = "~~~~~1~~";
         tempTab[1] = "~~3~~~~~";
-        tempTab[2] = "~~3~~~~~";
+        tempTab[2] = "~~3~1~~~";
         tempTab[3] = "~~3~~~22";
         tempTab[4] = "~~~~~~~~";
         tempTab[5] = "~~~4444~";
